@@ -12,6 +12,7 @@ for(int i = 0; i <= a; i++){
     print("Введите в диапозоне 1 - 1000");
 
   return 0;
+  
   }
 summ = array1.reduce((value, element) => value + element);
 return summ;

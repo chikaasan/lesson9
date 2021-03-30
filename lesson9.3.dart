@@ -41,5 +41,4 @@ if(a.contains("=")) {
 }else {
   return false;
 }
-
 }
